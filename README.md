@@ -1,26 +1,97 @@
-![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOeFe80OCIMvGLkCxBn8O-cbj6D70aconVw&src=images&cd=vfe&ved=0CBAQjRxqFwoTCIDx6c6R4u0CFQAAAAAdAAAAABAE)
-<h1 align="center">Hi 👋, I'm ARun Kumar Beldhe</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div align="center">
 
-<img aligh="right" alt="coding" width="400" src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp">
+# ✨ Arun Kumar Beldhe ✨
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunbeldhe&label=Profile%20views&color=0e75b6&style=flat" alt="arunbeldhe" /> </p>
+🎓 *Ph.D. Researcher* • 🖥️ *IT Support Specialist* • 🧑‍💻 *Full Stack Developer* • 📚 *Education Tech Enthusiast*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunbeldhe" alt="arunbeldhe" /></a> </p>
+![Arun's GitHub Banner](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Arun+Kumar+Beldhe;Ph.D.+Student+%7C+Tech+Educator+%7C+Full+Stack+Developer;Always+Learning+and+Building...&font=Fira%20Code&center=true&width=1000&height=50&duration=3000&pause=500)
 
-- 📫 How to reach me **beldhearunkumar@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/arunbeldhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunbeldhe" height="30" width="40" /></a>
-<a href="https://www.behance.net/beldhearunkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="beldhearunkumar" height="30" width="40" /></a>
-<a href="https://medium.com/@beldhearunkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beldhearunkumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/beldhearunkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beldhearunkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/beldhearun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beldhearun" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/beldhearunkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="beldhearunkumar" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👋 About Me
+Hi, I’m **Arun**, a Computer Science Ph.D. student at Texas Tech University passionate about building impactful digital solutions in education and IT infrastructure. With 3+ years of experience in **technical support**, **system administration**, and **full stack development**, I bridge the gap between backend systems and real-world usability — especially in academic and learning environments.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunbeldhe&show_icons=true&locale=en&layout=compact" alt="arunbeldhe" /></p>
+- 💻 Former Research Intern at IIIT Hyderabad (Virtual Labs Initiative)  
+- 👨‍🏫 Volunteer educator helping K–12 students learn logic programming  
+- 🛠️ Stack: HTML, CSS, JavaScript, React, .NET, SQL, PHP, Git, KACE, OmniCMS, Figma
+
+📫 **beldhearunkumar@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/arun-kumar-beldhe)
+
+---
+
+## 🚀 Projects
+
+### 📘 OnlineLPK12
+Led a team of 30 to develop a full-featured **Learning Management System** for K–12 education. Designed student and teacher portals for lessons, quizzes, and grading.
+
+- Tech: `.NET`, `HTML`, `CSS`, `JavaScript`, `SQL`, `Postman`, `Swagger`, `Git`, `Figma`
+- Features: Role-based access, lesson creation, responsive design
+
+---
+
+### 🧪 Virtual Labs (IIIT Hyderabad)
+Contributed to India’s **National Mission on Education through ICT** by developing dynamic virtual experiments for students lacking physical lab access.
+
+- Tools: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `jQuery`, `Git`
+- Focus: Remote STEM learning enhancement
+
+---
+
+### 📚 WebWork Deployment
+Configured and deployed WebWork LMS on Linux with RAID and SSO authentication at Texas Tech.
+
+- Integrated with Active Directory
+- Supported 100+ academic users securely
+
+---
+
+## 🧠 Technical Skills
+```yaml
+Languages:       Python, Java, C, PHP, JavaScript, SPARC, Perl
+Frontend:        HTML5, CSS3, React, Bootstrap, Figma
+Backend:         .NET, SQL, PHP
+Tools:           Git, KACE, Active Directory, Postman, Swagger, OmniCMS
+OS & Systems:    Windows, Linux (Ubuntu, OpenSUSE), macOS
+Support:         Imaging, Deployment, Troubleshooting, Asset Tracking
+```
+
+---
+
+## 💼 Experience
+
+### 🎓 Texas Tech University — *Technical Support & Web Systems Admin*  
+*Aug 2022 – Present*
+- Managed deployment, imaging, troubleshooting, and user support across departmental devices
+- Maintained IT documentation and inventory using KACE
+- Supported remote access tools and resolved network issues
+
+### 🔬 IIIT Hyderabad — *Research Intern, Virtual Labs*  
+*May 2020 – Jul 2020*
+- Built responsive interfaces for online science lab simulations using modern frontend tools
+- Contributed to nationally funded digital education initiative
+
+---
+
+## 🏅 Achievements & Volunteering
+- 🏆 Best Intern – IIIT Hyderabad (Virtual Labs Project)
+- 👨‍🏫 Mentored over 500 high school students in logic programming through outreach
+
+---
+
+## 📌 Currently Exploring
+- 🧱 Microservices in .NET
+- 🧠 AI-powered learning tools
+- 🧾 Writing a guide on scalable LMS architecture
+
+---
+
+<div align="center">
+
+✨ *Let’s build something meaningful in education and tech.* ✨  
+📬 **beldhearunkumar@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/arun-kumar-beldhe)
+
+</div>
