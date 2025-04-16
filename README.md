@@ -1,8 +1,8 @@
-{![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOeFe80OCIMvGLkCxBn8O-cbj6D70aconVw&src=images&cd=vfe&ved=0CBAQjRxqFwoTCIDx6c6R4u0CFQAAAAAdAAAAABAE)}
+![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOeFe80OCIMvGLkCxBn8O-cbj6D70aconVw&src=images&cd=vfe&ved=0CBAQjRxqFwoTCIDx6c6R4u0CFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm ARun Kumar Beldhe</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img aligh="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/0c3f1a2b5d8e6b9f1a0c3f1a2b5d8e6b9.gif](https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp)">
+<img aligh="right" alt="coding" width="400" src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunbeldhe&label=Profile%20views&color=0e75b6&style=flat" alt="arunbeldhe" /> </p>
 
